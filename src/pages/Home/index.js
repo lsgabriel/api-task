@@ -14,7 +14,7 @@ const Home = () =>{
                     'Authorization': '563492ad6f917000010000018248432e88334375a6b5ecf2cf51a3a0',
                 },
             });
-            console.log('##teste', response.data);
+            console.log(response.data);
             if(response.data) setPictures(response.data.photos);
             
         } catch (error){
