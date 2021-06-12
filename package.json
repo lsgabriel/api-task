@@ -1,5 +1,5 @@
 {
-  "name": "apiDesktop",
+  "name": "api-desktop",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "app/main.js",
