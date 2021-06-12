@@ -1,5 +1,5 @@
 {
-  "name": "electrate",
+  "name": "apiDesktop",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "app/main.js",
@@ -11,7 +11,7 @@
     "release": "gulp release",
     "make-icon": "gulp make-icon"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/lsgabriel/api-task",
   "keywords": [
     "Electron",
     "quick",
