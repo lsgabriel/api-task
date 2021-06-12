@@ -1,5 +1,5 @@
 {
-  "name": "api-desktop",
+  "name": "electrate",
   "version": "1.0.0",
   "description": "A minimal Electron application",
   "main": "app/main.js",
